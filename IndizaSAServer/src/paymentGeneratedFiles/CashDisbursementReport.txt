@@ -1,0 +1,116 @@
+Date report generated: 2021/11/30 21:57:44
+Transactions	Debit	Credit	Balance
+Invoice no:1	R0	R6616	R1006616
+
+Invoice no:2	R0	R6616	R1013232
+
+Invoice no:3	R0	R6616	R1019848
+
+Invoice no:4	R0	R6616	R1026464
+
+Invoice no:5	R0	R6616	R1033080
+
+Invoice no:6	R0	R6616	R1039696
+
+Invoice no:7	R0	R6616	R1046312
+
+Invoice no:8	R0	R6616	R1052928
+
+Invoice no:9	R0	R6616	R1059544
+
+Invoice no:10	R0	R6616	R1066160
+
+Invoice no:11	R0	R6616	R1072776
+
+Invoice no:12	R0	R6616	R1079392
+
+Invoice no:13	R0	R6616	R1086008
+
+Invoice no:14	R0	R6616	R1092624
+
+Invoice no:15	R0	R6616	R1099240
+
+Invoice no:16	R0	R6616	R1105856
+
+Invoice no:17	R0	R6616	R1112472
+
+Invoice no:18	R0	R6616	R1119088
+
+Invoice no:19	R0	R6616	R1125704
+
+Invoice no:20	R0	R6616	R1132320
+
+Invoice no:21	R0	R6616	R1138936
+
+Invoice no:22	R0	R6616	R1145552
+
+Invoice no:23	R0	R6616	R1152168
+
+Invoice no:24	R0	R6616	R1158784
+
+Invoice no:25	R0	R6616	R1165400
+
+Invoice no:26	R0	R6616	R1172016
+
+Invoice no:27	R0	R6616	R1178632
+
+Invoice no:28	R0	R6616	R1185248
+
+Invoice no:29	R0	R6616	R1191864
+
+Invoice no:30	R0	R6616	R1198480
+
+Invoice no:31	R0	R6616	R1205096
+
+Invoice no:32	R0	R6616	R1211712
+
+Invoice no:33	R0	R6616	R1218328
+
+Invoice no:34	R0	R6616	R1224944
+
+Invoice no:35	R0	R6616	R1231560
+
+Invoice no:36	R0	R6616	R1238176
+
+Invoice no:37	R0	R6616	R1244792
+
+Invoice no:38	R0	R6616	R1251408
+
+Invoice no:39	R0	R6616	R1258024
+
+Invoice no:40	R0	R6616	R1264640
+
+Invoice no:41	R0	R4639	R1269279
+
+Invoice no:42	R0	R4639	R1273918
+
+Invoice no:43	R0	R4639	R1278557
+
+Invoice no:44	R0	R4639	R1283196
+
+Invoice no:45	R0	R4639	R1287835
+
+Invoice no:46	R0	R932	R1288767
+
+Invoice no:47	R0	R932	R1289699
+
+Invoice no:48	R0	R932	R1290631
+
+Invoice no:49	R0	R932	R1291563
+
+Invoice no:50	R0	R932	R1292495
+
+Invoice no:51	R0	R932	R1293427
+
+Invoice no:52	R0	R932	R1294359
+
+Invoice no:53	R0	R932	R1295291
+
+Invoice no:54	R0	R932	R1296223
+
+Invoice no:55	R0	R932	R1297155
+
+Invoice no:56	R0	R932	R1298087
+
+......	......	Final Balance: R1298087
+
